@@ -1,0 +1,38 @@
+_repo: A-Man-s-Hearth_36503
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Frederick, Edmund
+    alias: Frederick, E. (Edmund)
+    birthdate: 1870
+    gutenberg_agent_id: '6450'
+    url: http://www.gutenberg.org/2009/agents/6450
+covers:
+- cover_type: archival
+  image_path: 36503-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ingram, Eleanor M. (Eleanor Marie)
+    alias: Ingram, Eleanor Marie
+    birthdate: 1886
+    deathdate: 1921
+    gutenberg_agent_id: '26005'
+    url: http://www.gutenberg.org/2009/agents/26005
+description: ''
+gutenberg_issued: '2011-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Married people -- Fiction'
+title: A Man's Hearth
+url: http://www.gutenberg.org/ebooks/36503
